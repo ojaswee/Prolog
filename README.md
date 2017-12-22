@@ -1,1 +1,2 @@
 # Prolog
+Short Prolog programs
